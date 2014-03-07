@@ -1,0 +1,8 @@
+ChangeLog
+
+1.0 First Official Release - 13/06/12
+- Runtime has been substantially improved (>50%) 
+- Some additional data corrections within LCA data
+- Input data files are now provided as part of the basic release package, as well as a .xls file
+
+0.8 First Public Release - 13/04/15
