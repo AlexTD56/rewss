@@ -1,0 +1,16 @@
+Notes,Source Flag,Stage Flag,Default option,Option 1 ,Option 2 ,Option 3,Option 4,Start Year,End Year
+Coal Mining,0,2,0.7,0.3,0,0,0,2010,2035
+Coal plant cooling,0,0,0.1,0.9,0,0,0,2010,2035
+NG Plant cooling,1,0,0.1,0.9,0,0,0,2010,2035
+Nuclear Plant cooling,3,0,0.1,0.9,0,0,0,2010,2035
+Gas drilling,1,2,0.7,0.3,0,0,0,2010,2035
+Reg/Adv/No treatment,19,0,0.2,0.18,0.62,0,0,2010,2035
+Reg/Adv/No treatment,20,0,0.4,0.2,0.4,0,0,2010,2035
+Reg/Adv/No treatment,21,0,0.9,0.1,0,0,0,2010,2035
+Reg/Adv/No treatment,22,0,0.9,0.1,0,0,0,2010,2035
+Treatment vs. none,19,1,0.38,0.62,0,0,0,2010,2035
+Treatment vs. none,20,1,0.6,0.4,0,0,0,2010,2035
+Biodiesel Irrigation,11,2,0.15,0,0.85,0,0,2010,2015
+Biodiesel Irrigation,11,2,0.25,0,0.75,0,0,2015,2035
+Gas drilling,12,2,0.7,0.3,0,0,0,2010,2035
+Gas drilling,16,2,0.7,0.3,0,0,0,2010,2035
