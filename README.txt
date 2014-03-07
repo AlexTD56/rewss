@@ -9,11 +9,11 @@ All necessary csv files can be generated from a single Numbers spreadsheet, and 
 
 This software was developed using Spyder as an interactive frontend, which is available for free for both Windows and Macintosh platforms. 
 
-Journal papers describing the model are in submission, and this work should be cited as (titles tentative pending review):
+Journal papers describing the model are accepted for publication, and this work should be cited as:
 
-Dale, A. T.; Bilec, M. M., The Regional Energy and Water Supply Scenarios (REWSS) Model, Part I: Framework, Procedure, and Validation. Sustainable Energy Technology & Assessments (In Preparation) 2013.
+Dale, A. T.; Bilec, M. M., The Regional Energy and Water Supply Scenarios (REWSS) Model, Part I: Framework, Procedure, and Validation. Sustainable Energy Technology & Assessments, 2014
 
-Dale, A. T.; Bilec, M. M., The Regional Energy and Water Supply Scenarios (REWSS) Model, Part II: Case Studies in Pennsylvania and Arizona. Sustainable Energy Technology & Assessments (In Preparation) 2013.
+Dale, A. T.; Bilec, M. M., The Regional Energy and Water Supply Scenarios (REWSS) Model, Part II: Case Studies in Pennsylvania and Arizona. Sustainable Energy Technology & Assessment, 2014
 
 
-Software © Alexander Dale 2013. This work is released under a Creative Commons Attribution-ShareAlike 3.0 Unported License. This means that you are free to edit, remix, and extend it, even for commercial purposes, so long as your provide attribution to the original author and, if you release your modifications, you do so only under the same or similar license.
+Software © Alexander Dale 2013-2014. This work is released under a Creative Commons Attribution-ShareAlike 3.0 Unported License. This means that you are free to edit, remix, and extend it, even for commercial purposes, so long as your provide attribution to the original author and, if you release your modifications, you do so only under the same or similar license.
